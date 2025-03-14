@@ -48,7 +48,7 @@ export default function Home() {
             transition={{ duration: 1 }}
             className="text-6xl font-bold tracking-tight"
           >
-            YOUR BRAND'S STORY STARTS HERE
+            YOUR BRAND&apos;S STORY STARTS HERE
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
