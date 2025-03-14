@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Global Styles */
+@layer base {
+  /* Remove custom utilities until they’re defined */
+  body {
+    @apply bg-white text-gray-900;
+  }
+}
